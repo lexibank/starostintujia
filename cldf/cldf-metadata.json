@@ -1,7 +1,7 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Starostin GS. Annotated Swadesh wordlists for the Tujia group. In: Starostin GS, editor. The Global Lexicostatistical Database. Moscow: RGU; 2013. URL: http://starling.rinet.ru/new100/tuj.xls.",
+    "dc:bibliographicCitation": "Starostin, George S. (2013): Annotated Swadesh wordlists for the Tujia group. In: Starostin, George S. (ed). The Global Lexicostatistical Database. Moscow: RGU; 2013. URL: http://starling.rinet.ru/new100/tuj.xls.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": [
         "http://concepticon.clld.org/contributions/Starostin-1991-110"
@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/lexibank/starostintujia",
             "rdf:type": "prov:Entity",
-            "dc:created": "4d4f5a8",
+            "dc:created": "1b7fe1d",
             "dc:title": "Repository"
         },
         {

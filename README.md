@@ -6,7 +6,7 @@
 
 If you use these data please cite
 - the original source
-  > Starostin GS. Annotated Swadesh wordlists for the Tujia group. In: Starostin GS, editor. The Global Lexicostatistical Database. Moscow: RGU; 2013. URL: http://starling.rinet.ru/new100/tuj.xls.
+  > Starostin, George S. (2013): Annotated Swadesh wordlists for the Tujia group. In: Starostin, George S. (ed). The Global Lexicostatistical Database. Moscow: RGU; 2013. URL: http://starling.rinet.ru/new100/tuj.xls.
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
